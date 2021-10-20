@@ -1,6 +1,3 @@
-html code
-
-
 <div id="activity">
 			<img src="http://code.quirkbot.com/assets/images/logo/white-outline.svg" width="30%" alt="">
   <h1 id="counter">You have hit the spacebar <span class="hits">0</span> times.</h1>
